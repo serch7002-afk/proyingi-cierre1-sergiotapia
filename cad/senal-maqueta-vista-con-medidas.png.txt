@@ -1,0 +1,1 @@
+The dimensioned drawing is included in the local project package as cad/senal-maqueta-vista-con-medidas.png. It is an illustrative concept view, not a CAD screenshot or evidence of fabrication. The PNG could not be added to this repository through the available GitHub file API. See the local course handoff for the image.

@@ -1,32 +1,34 @@
-# Proyecto de Ingeniería I — borrador de cierre
+# Proyecto de Ingeniería I — cierre del primer parcial y diseño 2D preliminar
 
 **Estudiante:** Sergio Eduardo Tapia Portal  
-**Repositorio:** [serch7002-afk/proyingi-cierre1-sergiotapia](https://github.com/serch7002-afk/proyingi-cierre1-sergiotapia)  
-**Estado:** borrador académico con IA declarada; revisar contenido y acordar la idea con el docente antes de publicarlo.
+**Repositorio público:** [serch7002-afk/proyingi-cierre1-sergiotapia](https://github.com/serch7002-afk/proyingi-cierre1-sergiotapia)  
+**Curso:** 13351S-O26 Proyecto de Ingeniería I (LIIB2101)  
+**Estado:** los enlaces del repositorio ya se enviaron en Moodle. La entrega está marcada como tardía. El prototipo sigue siendo una propuesta no fabricada ni ensayada.
 
 ## Contenido
 
-- [ideas-proyecto.md](ideas-proyecto.md) — tres propuestas sobre baches y su comparación.
-- [investigacion.md](investigacion.md) — ejemplos existentes, fuentes y límites.
-- [idea-elegida.md](idea-elegida.md) — propuesta provisional para prototipado académico.
-- [cad/pieza-s6.md](cad/pieza-s6.md) — documentación del diseño 2D preliminar.
+- [ideas-proyecto.md](ideas-proyecto.md) — tres ideas sobre baches y comparación inicial de viabilidad.
+- [investigacion.md](investigacion.md) — ejemplos existentes, fuentes consultadas y límites.
+- [idea-elegida.md](idea-elegida.md) — selección provisional de una señal de advertencia a escala.
+- [cad/pieza-s6.md](cad/pieza-s6.md) — dimensiones nominales y notas de fabricación.
+- [cad/senal-maqueta-provisional.dxf](cad/senal-maqueta-provisional.dxf) — geometría DXF preliminar.
+- [cad/senal-maqueta-vista-con-medidas.svg](cad/senal-maqueta-vista-con-medidas.svg) — esquema vectorial acotado. No es una captura de CAD ni evidencia de fabricación.
+- [cad/senal-maqueta-vista-con-medidas.png.txt](cad/senal-maqueta-vista-con-medidas.png.txt) — nota sobre el formato de la vista publicada y sus límites.
 
 ## Contexto inicial
 
-> He observado baches en calles y carreteras cerca de mi hogar. Quiero explorar maneras de advertir a conductores y estudiar posibles prototipos didácticos a escala.
+He encontrado baches en calles y carreteras cerca de mi hogar. No registré una calle específica ni dimensiones, por lo que no agrego datos que no proporcioné.
 
-La observación que aporté para este proyecto es que he encontrado baches en calles y carreteras cerca de mi hogar. No registré una calle específica, dimensiones o una situación más detallada; por privacidad y para no inventar, el proyecto se mantiene en ese nivel general.
+## Propuesta provisional
 
-## Candidato provisional
+Elegí una señal triangular para maqueta porque puede explicar visualmente el riesgo sin proponerse como señal oficial ni colocarse en una vía pública. El DXF plantea una placa de 80 × 69 mm y una base de 40 × 20 mm con ranura de 3.2 × 18 mm. Son dimensiones iniciales; hay que verificar escala, kerf y encastre con el material real.
 
-La señal triangular para maqueta es la propuesta elegida en este borrador. Preparé un DXF y una vista acotada con medidas supuestas; faltan la aprobación del profesor, del material y de las medidas por parte del FabLab antes de fabricar. Las listas publicadas de corte láser no incluyen caucho.
+Se propone MDF de 3 mm, sujeto a aprobación del FabLab. No se debe cortar caucho con láser sin confirmar que la máquina y el taller lo permiten. El diseño no se ha fabricado ni probado.
 
 ## Estado del curso
 
-En esta etapa estoy aterrizando una observación cotidiana en un prototipo seguro que se pueda probar en una maqueta. Mis ideas iniciales eran demasiado ambiciosas para fabricar directamente; ahora estoy comparando opciones y confirmando materiales antes de definir el diseño final. No tengo aún resultados experimentales.
+El repositorio público contiene los archivos requeridos para el cierre y el primer diseño 2D. Moodle muestra ambos enlaces como enviados para calificar, con retraso. La aceptación y calificación dependen del docente.
 
 ## Declaración de uso de IA
 
-> Se utilizó ChatGPT para ordenar y mejorar la redacción de tres ideas preliminares propuestas por el estudiante y para identificar preguntas de viabilidad. El estudiante debe revisar, corregir y completar las propuestas, verificar personalmente las fuentes y confirmar los datos antes de entregar. No se usó IA para afirmar observaciones personales ni para fabricar resultados.
-
-
+> Se utilizó ChatGPT para organizar la redacción, comparar las ideas iniciales, revisar fuentes y apoyar el esquema vectorial del concepto. Las ideas de partida y la observación general fueron aportadas por el estudiante. No se usó IA para afirmar observaciones personales, mediciones físicas, fabricación o resultados de pruebas.

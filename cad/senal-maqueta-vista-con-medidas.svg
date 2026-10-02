@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Vista acotada de señal triangular para maqueta</title>
+<desc id="desc">Esquema preliminar con triángulo de 80 por 69 milímetros, base de 40 por 20 milímetros y ranura de 3.2 por 18 milímetros. No es una captura CAD ni una pieza fabricada.</desc>
+<rect width="900" height="620" fill="#fff"/>
+<text x="450" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#222">Señal para maqueta — esquema acotado</text>
+<text x="450" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#555">Geometría preliminar · unidades nominales en mm · no es señal oficial</text>
+<g transform="translate(150 145) scale(3.3)" stroke="#222" stroke-width=".65" vector-effect="non-scaling-stroke">
+<polygon points="0,0 80,0 40,-69" fill="#ffd54f"/>
+<path d="M37 28 C36 22 42 18 41 12 C40 7 35 6 34 1 M43 28 C45 23 43 20 46 17" fill="none" stroke="#222" stroke-width="2"/>
+<rect x="90" y="-100" width="40" height="20" fill="#e4e7eb"/>
+<rect x="108.4" y="-100" width="3.2" height="18" fill="white"/>
+<line x1="0" y1="10" x2="80" y2="10" stroke="#1769aa"/>
+<line x1="0" y1="6" x2="0" y2="14" stroke="#1769aa"/>
+<line x1="80" y1="6" x2="80" y2="14" stroke="#1769aa"/>
+<line x1="-9" y1="0" x2="-9" y2="-69" stroke="#1769aa"/>
+<line x1="-13" y1="0" x2="-5" y2="0" stroke="#1769aa"/>
+<line x1="-13" y1="-69" x2="-5" y2="-69" stroke="#1769aa"/>
+<line x1="90" y1="-110" x2="130" y2="-110" stroke="#1769aa"/>
+<line x1="90" y1="-114" x2="90" y2="-106" stroke="#1769aa"/>
+<line x1="130" y1="-114" x2="130" y2="-106" stroke="#1769aa"/>
+<line x1="137" y1="-100" x2="137" y2="-80" stroke="#1769aa"/>
+<line x1="133" y1="-100" x2="141" y2="-100" stroke="#1769aa"/>
+<line x1="133" y1="-80" x2="141" y2="-80" stroke="#1769aa"/>
+</g>
+<g font-family="Arial,sans-serif" font-size="15" fill="#1769aa">
+<text x="282" y="205" text-anchor="middle">80 mm</text>
+<text x="105" y="258" transform="rotate(-90 105 258)" text-anchor="middle">69 mm</text>
+<text x="515" y="122" text-anchor="middle">40 mm</text>
+<text x="580" y="148" transform="rotate(-90 580 148)" text-anchor="middle">20 mm</text>
+</g>
+<line x1="510" y1="192" x2="554" y2="192" stroke="#1769aa" stroke-width="2"/>
+<line x1="510" y1="184" x2="510" y2="201" stroke="#1769aa" stroke-width="2"/>
+<line x1="554" y1="184" x2="554" y2="201" stroke="#1769aa" stroke-width="2"/>
+<text x="532" y="218" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#1769aa">ranura 3.2 mm</text>
+<text x="532" y="240" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#1769aa">profundidad 18 mm</text>
+<text x="450" y="505" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#333">Propuesta de MDF 3 mm (sujeta a aprobación del FabLab)</text>
+<text x="450" y="536" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#a33">Vista vectorial del concepto; no es captura del software CAD ni evidencia de fabricación.</text>
+<text x="450" y="564" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#555">Verificar escala, kerf, dimensiones de la ranura y material antes del corte.</text>
+</svg>
